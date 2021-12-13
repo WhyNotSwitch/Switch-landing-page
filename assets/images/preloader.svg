@@ -5,14 +5,14 @@
 <!-- change background Gradient color below -->
 <defs>
   <linearGradient id="BgGradient">
-      <stop offset="5%"  stop-color="#2ab9a5"/>
-      <stop offset="95%" stop-color="#97c74e"/>
+      <stop offset="5%"  stop-color="#950101"/>
+      <stop offset="95%" stop-color="#FF0000"/>
   </linearGradient>
 </defs>
 
 <!-- change border and center element color below -->
 <style type="text/css">
-	.border-color{stroke:#4cbd89; fill:none; stroke-miterlimit:10; stroke-dasharray:12.2685,12.2685; }
+	.border-color{stroke:#950101; fill:none; stroke-miterlimit:10; stroke-dasharray:12.2685,12.2685; }
 	.center-element{fill:#FFFFFF;}
 </style>
 

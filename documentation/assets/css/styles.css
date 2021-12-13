@@ -99,8 +99,8 @@ img { max-width: 100%; }
 }
 
 .btn-green, a.btn-green {
-  background: #4cbd89;
-  border: 1px solid #4cbd89;
+  background: #950101;
+  border: 1px solid #950101;
   color: #fff !important;
 }
 
@@ -265,7 +265,7 @@ select {
 }
 
 .body-green .branding .text-highlight {
-  color: #4cbd89;
+  color: #950101;
 }
 
 .body-blue .branding .text-highlight {
@@ -300,7 +300,7 @@ select {
 }
 
 .body-green .branding .icon {
-  color: #4cbd89;
+  color: #950101;
 }
 
 .body-blue .branding .icon {
@@ -384,7 +384,7 @@ select {
 }
 
 .body-green .doc-header .doc-title {
-  color: #4cbd89;
+  color: #950101;
 }
 
 .body-blue .doc-header .doc-title {
@@ -574,7 +574,7 @@ select {
 }
 
 .callout-success {
-  background: #4cbd89;
+  background: #950101;
   color: #fff;
 }
 
@@ -758,11 +758,11 @@ select {
 
 /* Color Schemes */
 .body-green .header {
-  border-color: #4cbd89;
+  border-color: #950101;
 }
 
 .body-green a {
-  color: #4cbd89;
+  color: #950101;
 }
 
 .body-green a:hover {
@@ -871,8 +871,8 @@ select {
 }
 
 .body-green .doc-menu .nav-link.active {
-  color: #4cbd89;
-  border-color: #4cbd89;
+  color: #950101;
+  border-color: #950101;
 }
 .body-green .doc-menu .nav-link{
   position: relative;
@@ -884,7 +884,7 @@ select {
   right: 20px;
   height: 100%;
   width: 0px;
-  background: #4cbd89;
+  background: #950101;
   z-index: 99;
    -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
@@ -961,7 +961,7 @@ select {
 }
 
 .body-green .doc-sub-menu .nav-link.active {
-  color: #4cbd89;
+  color: #950101;
 }
 
 .body-blue .doc-sub-menu .nav-link.active {
@@ -1328,7 +1328,7 @@ select {
 }
 
 .cards-section .item-green .item-inner {
-  border-top: 3px solid #4cbd89;
+  border-top: 3px solid #950101;
 }
 
 .cards-section .item-green .item-inner:hover .title {
@@ -1336,7 +1336,7 @@ select {
 }
 
 .cards-section .item-green .icon {
-  color: #4cbd89;
+  color: #950101;
 }
 
 .cards-section .item-blue .item-inner {
@@ -1401,11 +1401,11 @@ select {
 
 /*wizixo css*/
 .btn{ border-radius: 3px; }
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{ color: #343a40; }
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{ color: #950101; }
 ul.files_structure { padding: 0; }
 .files_structure li { list-style: none; } 
-.files_structure li svg { color: #4cbd89; }
-.code-color { color: #4cbd89; }
+.files_structure li svg { color: #950101; }
+.code-color { color: #950101; }
 ul li, ol li { margin-bottom: 15px; }
 
 
@@ -1447,12 +1447,12 @@ mark{ background-color: #f9f2f4;
     padding: 0px 4px 2px; }
 
 .bg-grad {
-    background: -moz-linear-gradient(150deg, #97c74e 0%, #2ab9a5 100%);
-    background: -webkit-gradient(linear, left top, right top, color-stop(0%, #97c74e), color-stop(100%, #2ab9a5));
-    background: -webkit-linear-gradient(150deg, #97c74e 0%, #2ab9a5 100%);
-    background: -o-linear-gradient(150deg, #97c74e 0%, #2ab9a5 100%);
-    background: -ms-linear-gradient(150deg, #97c74e 0%, #2ab9a5 100%);
-    background: linear-gradient(150deg, #97c74e 0%, #2ab9a5 100%);
+    background: -moz-linear-gradient(150deg, #FF0000 0%, #950101 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, #FF0000), color-stop(100%, #950101));
+    background: -webkit-linear-gradient(150deg, #FF0000 0%, #950101 100%);
+    background: -o-linear-gradient(150deg, #FF0000 0%, #950101 100%);
+    background: -ms-linear-gradient(150deg, #FF0000 0%, #950101 100%);
+    background: linear-gradient(150deg, #FF0000 0%, #950101 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-one', endColorstr='$color-two',GradientType=1 );
 }
 .header{ border: none !important; padding: 20px 0; }
@@ -1482,7 +1482,7 @@ mark{ background-color: #f9f2f4;
 
 
 .body-green .table > thead > tr > th, dt {
-    color: #343a40;
+    color: #950101;
 }
 .branding .text-bold{ font-size: 13px; }
 
