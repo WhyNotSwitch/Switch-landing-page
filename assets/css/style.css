@@ -20231,7 +20231,7 @@ footer .widget {
 }
 .pattern-overlay-1::before {
   content: "";
-  background: url(../images/bg/pattern/02.png);
+  background: url(../images/bg/pattern/01.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -20249,7 +20249,7 @@ footer .widget {
 }
 .pattern-overlay-1-dark::before {
   content: "";
-  background: url(../images/bg/pattern/02.png);
+  background: url(../images/bg/pattern/01-dark.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
