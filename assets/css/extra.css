@@ -1,0 +1,118 @@
+/* show home banner dependent on screen size */ 
+@media only screen and (max-width: 780px) {
+.hero {
+    background:url(../images/banner/charge.png) no-repeat; 
+    background-size:cover; 
+    background-position: center center; 
+    background-attachment: fixed; 
+    height: 100vh;
+}
+}
+
+@media only screen and (min-width: 781px) {
+.hero {
+    background:url(../images/banner/Perfect-woman.webp) no-repeat; 
+    background-size:cover; 
+    background-position: center center; 
+    background-attachment: fixed; 
+    height: 100vh;
+}
+}
+
+.section-title {
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.section-title h2 {
+	font-size: 13px;
+	letter-spacing: 1px;
+	font-weight: 700;
+	padding: 8px 20px;
+	line-height: 1;
+	margin: 0;
+	background: #fdeff2;
+	color: #950101;
+	display: inline-block;
+	text-transform: uppercase;
+	border-radius: 50px;
+}
+
+.section-title h3 {
+	margin: 15px 0 0 0;
+	font-size: 32px;
+	font-weight: 700;
+}
+
+.section-title h3 span {
+	color: #950101;
+}
+
+.section-title p {
+	margin: 15px auto 0 auto;
+	font-weight: 600;
+}
+
+@media (min-width: 1024px) {
+	.section-title p {
+		width: 50%;
+	}
+}
+
+
+  
+/* Social Impact Section
+--------------------------------*/
+
+#impact {
+    background: linear-gradient( rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url(../images/bg/blackout-again.jpg) fixed center center;
+	background-size: cover;
+	padding: 80px 10% 60px 10%;
+}
+
+#impact .impact-item {
+	margin-bottom: 20px;
+}
+
+#impact .impact-icon {
+	float: left;
+	background: #950101;
+	border-radius: 50%;
+	transition: 0.5s;
+	border: 1px solid #950101;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 64px;
+	height: 64px;
+}
+
+#impact .impact-icon i {
+	color: #fff;
+	font-size: 24px;
+	line-height: 0;
+}
+
+#impact .impact-item:hover .impact-icon {
+	background: #fff;
+}
+
+#impact .impact-item:hover .impact-icon i {
+	color: #950101;
+}
+
+#impact .impact-title {
+	margin-left: 80px;
+	font-weight: 700;
+	margin-bottom: 15px;
+}
+
+#impact .impact-title a {
+	color: #111;
+}
+
+#impact .impact-description {
+	margin-left: 80px;
+	line-height: 24px;
+}
+

@@ -154,35 +154,6 @@ h6, .h6 {
   font-size: 0.875rem;
 }
 
-.hero {
-  background:url(../images/banner/Perfect-woman.webp) no-repeat; 
-	background-size:cover; 
-  background-position: center center; 
-  background-attachment: fixed; 
-  height: 100vh;
-}
-
-/* show home page block dependent on screen size */ 
-@media only screen and (max-width: 780px) {
-  .hero {
-    background:url(../images/banner/charge.png) no-repeat; 
-    background-size:cover; 
-    background-position: center center; 
-    background-attachment: fixed; 
-    height: 100vh;
-  }
-}
-
-@media only screen and (min-width: 781px) {
-  .hero {
-    background:url(../images/banner/Perfect-woman.webp) no-repeat; 
-    background-size:cover; 
-    background-position: center center; 
-    background-attachment: fixed; 
-    height: 100vh;
-  }
-}
-
 p {
   margin-top: 0;
   margin-bottom: 1.3rem;
