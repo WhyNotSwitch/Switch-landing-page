@@ -116,3 +116,11 @@
 	line-height: 24px;
 }
 
+/* application page */
+#applicationPage{
+	padding: 7% 5%;
+}
+
+.card-title{
+	text-align: center;
+}
